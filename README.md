@@ -2,7 +2,7 @@
 
 ## Project Overview
 ### Purpose
-This WPF application allows users to interact with shapes on a canvas, enabling shape creation, movement, and customization through a graphical interface. The project demonstrates principles of OOP and SOLID design patterns.
+This WPF application allows users to interact with shapes on a canvas, enabling shape creation, movement, and customization through a graphical interface. The project demonstrates principles of OOP and SOLID Principles.
 
 ### Features
 - Add shapes to a canvas (initial and random).
