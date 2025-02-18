@@ -1,0 +1,21 @@
+# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.ncb
+*.cache
+*.pdb
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore user-specific settings
+*.sln.docstates
